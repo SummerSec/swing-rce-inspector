@@ -258,7 +258,8 @@ func handle() {
 // author: 4ra1n of Chaitin Tech
 // create: 2022/10/02
 // update: 2022/10/10
-// line: 2663
+// code lines: 2669
+// total lines: 3417
 func main() {
 	// set log level
 	log.SetLevel(log.InfoLevel)
