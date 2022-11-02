@@ -25,7 +25,7 @@
 
 - 在`swing-rce-inspector`当前目录创建`jars`目录
 - 请把需要的`Jar`文件放入`jars`目录中（例如`rt.jar`）
-- 请以`root`权限运行
+- 请以`root`权限运行（`sudo ./swing-rce-inspector`）
 
 扫描`rt.jar`和`cobaltstrike.jar`的结果如下：
 
